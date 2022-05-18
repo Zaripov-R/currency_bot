@@ -1,0 +1,1 @@
+Simply currency bot
